@@ -2,8 +2,7 @@
 
 ## **Estudiantes:** 
 - Sebastian Albarracin Silva 
-- Santiago Garcia 
-- Camilo Leon
+- David Santiago Villadiego Medicis
 
 Este experimento es realizado con la finalidad de materializar y entender el comportamiento de uno de los experimentos denominado "El más bello del siglo XIX" en la física haciendo uso de diferentes cosas que iremos explicando en el experimento y haiendo uso de la maqueta de la doble rendija, primero podemos ir con un poco de historia sobre este experiento.
 
@@ -56,11 +55,11 @@ Este planteamiento lo pusimos a base de lo hecho y visto en clase.
 
 ### LOS QUE DESARROLAMOS ESTE EXPERIMENTOS SOMOS
 - Sebastian Albarracin Silva 
-- Santiago Garcia 
-- Camilo Leon
+- David Santiago Villadiego Medicis
 
 ### Algunas fotos que queremos mostrarles del como hicimos el experimento.
 ![alt text](image.png)
+![alt text](image-1.png)
 
 ### Archivos
 En esta librería aparecen 3 archivos que el usuario puede usar
