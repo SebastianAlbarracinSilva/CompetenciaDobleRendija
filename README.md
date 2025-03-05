@@ -58,7 +58,6 @@ Este planteamiento lo pusimos a base de lo hecho y visto en clase.
 - David Santiago Villadiego Medicis
 
 ### Algunas fotos que queremos mostrarles del como hicimos el experimento.
-![alt text](image.png)
 ![alt text](image-1.png)
 
 ### Archivos
